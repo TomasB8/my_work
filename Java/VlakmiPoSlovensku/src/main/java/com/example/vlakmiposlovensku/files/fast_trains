@@ -1,0 +1,14 @@
+BAKE;90;720;06:00,08:00,10:00,12:00,14:00,16:00,18:00,20:00;200;0.05;Bratislava,Bratislava-Vinohrady,Trnava,Trenčín,Púchov,Považská Bystrica,Žilina,Vrútky,Kraľovany,Ružomberok,Liptovský Mikuláš,Štrba,Poprad,Spišská Nová Ves,Margecany,Kysak,Košice
+KEBA;90;720;05:00,07:00,09:00,11:00,13:00,15:00,17:00,19:00;200;0.05;Košice,Kysak,Margecany,Spišská Nová Ves,Poprad,Štrba,Liptovský Mikuláš,Ružomberok,Kraľovany,Vrútky,Žilina,Považská Bystrica,Púchov,Trenčín,Trnava,Bratislava-Vinohrady,Bratislava
+MTZV;75;500;05:30,07:30,09:30,11:30,13:30,15:30,17:30,19:30;125;0.03;Vrútky,Martin,Turčianske Teplice,Banská Bystrica,Sliač,Zvolen
+ZVMT;75;500;06:30,08:30,10:30,12:30,14:30,16:30,18:30,20:30;125;0.03;Zvolen,Sliač,Banská Bystrica,Turčianske Teplice,Martin,Vrútky
+BABB;82;623;06:45,08:45,10:45,12:45,14:45,16:45,18:45,20:45;156;0.04;Bratislava,Bratislava-Vinohrady,Galanta,Šaľa,Šurany,Podhájska,Levice,Kozárovce,Nová Baňa,Žarnovica,Žiar nad Hronom,Zvolen,Sliač,Banská Bystrica
+BBBA;82;623;05:45,07:45,09:45,11:45,13:45,15:45,17:45,19:45;156;0.04;Banská Bystrica,Sliač,Zvolen,Žiar nad Hronom,Žarnovica,Nová Baňa,Kozárovce,Levice,Podhájska,Šurany,Šaľa,Galanta,Bratislava-Vinohrady,Bratislava
+KELI;65;325;05:15,07:15,09:15,11:15,13:15,15:15,17:15,19:15;86;0.04;Košice,Kysak,Prešov,Veľký Šariš,Šarišské Michaľany,Orkucany,Sabinov,Pečovská Nová Ves,Červenica,Rožkovany,Lipany
+LIKE;65;325;06:15,08:15,10:15,12:15,14:15,16:15,18:15,20:15;86;0.04;Lipany,Rožkovany,Červenica,Pečovská Nová Ves,Sabinov,Orkucany,Šarišské Michaľany,Veľký Šariš,Prešov,Kysak,Košice
+KEHE;70;180;05:23,07:23,09:23,11:23,13:23,15:23,17:23,19:23;59;0.03;Košice,Čeľovce,Trebišov,Bánovce nad Ondavou,Michalovce,Strážske,Brekov,Humenné
+HEKE;70;180;06:23,08:23,10:23,12:23,14:23,16:23,18:23,20:23;59;0.03;Humenné,Brekov,Strážske,Michalovce,Bánovce nad Ondavou,Trebišov,Čeľovce,Košice
+KEZV;78;348;05:42,07:42,09:42,11:42,13:42,15:42,17:42,19:42;112;0.05;Košice,Moldava nad Bodvou,Rožňava,Plešivec,Tornaľa,Číž,Jesenské,Fiľakovo,Lučenec,Kriváň,Detva,Zvolen
+ZVKE;78;348;06:42,08:42,10:42,12:42,14:42,16:42,18:42,20:42;112;0.05;Zvolen,Detva,Kriváň,Lučenec,Fiľakovo,Jesenské,Číž,Tornaľa,Plešivec,Rožňava,Moldava nad Bodvou,Košice
+BAPD;75;350;05:37,07:37,09:37,11:37,13:37,15:37,17:37,19:37;95;0.04;Bratislava,Trnava,Leopoldov,Hlohovec,Zbehy,Topoľčany,Chynorany,Žabokreky nad Nitrou,Veľké Bielice,Partizánske,Zemianske Kostoľany,Nováky,Prievidza
+PDBA;75;350;06:37,08:37,10:37,12:37,14:37,16:37,18:37,20:37;95;0.04;Prievidza,Nováky,Zemianske Kostoľany,Partizánske,Veľké Bielice,Žabokreky nad Nitrou,Chynorany,Topoľčany,Zbehy,Hlohovec,Leopoldov,Trnava,Bratislava
